@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "245908831077",
+    "firebase_url": "https://my-first-try-3709d.firebaseio.com",
+    "project_id": "my-first-try-3709d",
+    "storage_bucket": "my-first-try-3709d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245908831077:android:fdbc1ea017ffaf03",
+        "android_client_info": {
+          "package_name": "bd.nasimdeveloper.userregistration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245908831077-n6san9kuoqj07ouev14lukgmj0lqv3ar.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bd.nasimdeveloper.userregistration",
+            "certificate_hash": "84c923d6ecc3b01375fe6f7262e1d6244b3cf986"
+          }
+        },
+        {
+          "client_id": "245908831077-998dfbustpioqd2evvde0igphgsek2s3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs_nRvVSUWMRD4vH6iZjAuRis3zftJcJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245908831077-998dfbustpioqd2evvde0igphgsek2s3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
